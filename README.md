@@ -19,3 +19,6 @@ $ python BruteForceAttack.py -i http://10.0.0.1 -t 50 -u username -w ~/Desktop/S
 ```
 ## Reference
 Bludit Brute Force Mitigation Bypass | rastating.github.io. (2020). Retrieved 6 September 2020, from https://rastating.github.io/bludit-brute-force-mitigation-bypass/
+
+## Contact Me
+![](http://www.hackthebox.eu/badge/image/355058)
